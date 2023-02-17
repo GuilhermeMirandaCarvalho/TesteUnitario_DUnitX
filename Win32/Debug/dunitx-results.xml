@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="C:\Desenvolvimento\TesteUnitario_DUnitX\Win32\Debug\ProjetoTesteUnitario.exe" total="1" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2023-02-16" time="14.923">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="ProjetoTesteUnitario.exe" executed="true" result="Success" success="True" time="14.923" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="ProjetoTesteUnitario" executed="true" result="Success" success="True" time="14.923" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TMyTestObject" executed="True" result="Success" success="True" time="14.923" >
+                <results>
+                  <test-case name="TesteTratarCPFCNPJ" executed="True" result="Success" success="True" time="14.923" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>
